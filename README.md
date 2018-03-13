@@ -8,6 +8,6 @@
   * [setState的异步机制](https://github.com/951565664/blog/issues/1)
 * [Javascript](#release-types)
 
-# 停止维护
+# 项目迁移
 
-此项目已停止维护，转移到了 [新的地址](https://github.com/front-end-note)，欢迎大家更新
+因希望和好朋友一起维护，于是建立了一个organizations 项目已经迁移到了新的 [地址](https://github.com/front-end-note/notes)
